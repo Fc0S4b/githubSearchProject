@@ -1,3 +1,4 @@
+[Proyecto realizado desde el curso de React de John Smilga](https://www.udemy.com/share/101uUA3@JOwl1NM-uEYlDiTKit1LBzzF3wLJq9Rb_thQ0cXTZ3woLlVxnliFyk_gU0YAMXsR7w==/)
 ## Starter Project
 
 - css provided (global styles, styled components)
